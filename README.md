@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- [blog](https://blog-cn.curatorc.com)
+- 🔭 I’m currently working on 中国通信服务
+- 📫 How to reach me: mail@curatorc.com
+
 <!--
 **CuratorC/CuratorC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
